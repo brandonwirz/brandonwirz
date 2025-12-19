@@ -12,7 +12,7 @@ Continuing education:
 • Tripleten - Software Engineering program 08/2025 - present
 
 Languages and Tools:
-visual studio code javascript react html5 css3 sass json eslint Node.js MySQL latex markdown Git github terminal/CLI macos 
+visual studio code javascript react html5 css3 sass json eslint Node.js MySQL markdown Git github terminal macos 
 
 Don't hesitate to get in touch!
 
