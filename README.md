@@ -11,6 +11,13 @@ Prototyping, Responsive Web Design, Wordpress, HTML5, CSS3, JavaScript, jQuery, 
 Continuing education:
 • Tripleten - Software Engineering program 08/2025 - present
 
+Languages and Tools:
+visual studio code javascript react html5 css3 sass json eslint Node.js MySQL latex markdown Git github terminal/CLI macos 
+
+Don't hesitate to get in touch!
+
+
+
 <!--
 **brandonwirz/brandonwirz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
