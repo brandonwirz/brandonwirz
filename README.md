@@ -4,7 +4,7 @@ I'm a Hybrid Web Designer, Developer and Student.
 
 Highly accomplished Web Designer and Developer with 8 + years of experience. Success delivering innovative, user-centered web solutions. Proven ability to streamline processes, enhance productivity, and elevate brand experiences through strategic design and development. Expertise spans Graphic Design, Web Design, Visual Storytelling and Front End Development. Advanced skills in Responsive web design, Typography, Layout, Branding, HTML, CSS, JavaScript, jQuery, UI/UX, and Accessibility. Experienced in animation, Video editing, AI prompting, Storyboarding, Wire framing and social media advertising. Recognized for professionalism, precision, rapid learning and detail-oriented execution. Strong communicator, collaborative team player and confident leader with excellent presentation and interpersonal skills.
 
-Adobe CC (Illustrator, Photoshop, Dreamweaver, InDesign, Premiere Pro, Premiere Rush, After Effects, Animate, Bridge, Acrobat, XD, AEM), Figma, Zeplin, Sketch, Webflow, Canva, InVision, Slack, Teams, Google, Zoom)
+Adobe CC (Illustrator, Photoshop, Dreamweaver, InDesign, Premiere Pro, After Effects, Animate, Bridge, Acrobat, XD, AEM), Figma, Zeplin, Sketch, Webflow, Canva, InVision, Slack, Teams, Google, Zoom)
 
 Prototyping, Responsive Web Design, Wordpress, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind, Material UI, Foundation, SASS, PHP, Smarty, React, Next, GitHub. 
 
@@ -14,9 +14,9 @@ Continuing education:
 Languages and Tools:
 Visual Studio Code, JavaScript, React, Html5, CSS3, BEM, SASS, JSON, Eslint, Node.js, MySQL, Markdown, Git, Github, Terminal, MacOS 
 
-<h3 align="left">Portofolio: <a href="https://wirzdesign.com" target="_blank">https://wirzdesign.com</a></h3>
+<h5 align="left">Portfolio: <a href="https://wirzdesign.com" target="_blank">https://wirzdesign.com</a></h5>
 
-<h3 align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/brandonwirz" target="blank"></h3>
+<h5 align="left">LinkedIn<a href="https://www.linkedin.com/in/bwirz/" target="blank"></h5>
 
 Don't hesitate to get in touch!
 
