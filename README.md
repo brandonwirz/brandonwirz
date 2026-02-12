@@ -12,7 +12,11 @@ Continuing education:
 • Tripleten - Software Engineering program 08/2025 - present
 
 Languages and Tools:
-visual studio code javascript react html5 css3 sass json eslint Node.js MySQL markdown Git github terminal macos 
+Visual Studio Code, JavaScript, React, Html5, CSS3, BEM, SASS, JSON, Eslint, Node.js, MySQL, Markdown, Git, Github, Terminal, MacOS 
+
+<h3 align="left">Portofolio: <a href="https://wirzdesign.com" target="_blank">https://wirzdesign.com</a></h3>
+
+<h3 align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/brandonwirz" target="blank"></h3>
 
 Don't hesitate to get in touch!
 
