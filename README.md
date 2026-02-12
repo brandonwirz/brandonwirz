@@ -16,7 +16,7 @@ Visual Studio Code, JavaScript, React, Html5, CSS3, BEM, SASS, JSON, Eslint, Nod
 
 <h5 align="left">Portfolio: <a href="https://wirzdesign.com" target="_blank">https://wirzdesign.com</a></h5>
 
-<h5 align="left">LinkedIn<a href="https://www.linkedin.com/in/bwirz/" target="_blank"></a></h5>
+<h5 align="left">LinkedIn<a href="https://www.linkedin.com/in/bwirz/" target="_blank">https://www.linkedin.com/in/bwirz/</a></h5>
 
 Don't hesitate to get in touch!
 
